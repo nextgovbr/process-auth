@@ -1,6 +1,6 @@
 {
   "title": "Auth0 Authorization",
-  "name": "auth0-authz",
+  "name": "process-authz",
   "version": "2.7.0",
   "preVersion": "2.6.0",
   "author": "auth0",
@@ -10,7 +10,7 @@
   "initialUrlPath": "/admins/login",
   "updateConfirmMessage": "Warning! Read the documentation about breaking changes (https://auth0.com/docs/extensions/authorization-extension) before updating the extension",
   "uninstallConfirmMessage": "You are about to uninstall the \"Authorization Extension\". If you proceed all your data in this extension will be lost. Do you want to continue?",
-  "repository": "https://github.com/auth0/auth0-authorization-extension",
+  "repository": "https://github.com/nextgovbr/auth0-authorization-extension",
   "keywords": [
     "auth0",
     "extension"
