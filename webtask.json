@@ -8,7 +8,7 @@
   "initialUrlPath": "/admins/login",
   "updateConfirmMessage": "Warning! Read the documentation about breaking changes (https://auth0.com/docs/extensions/authorization-extension) before updating the extension",
   "uninstallConfirmMessage": "You are about to uninstall the \"Authorization Extension\". If you proceed all your data in this extension will be lost. Do you want to continue?",
-  "repository": "https://github.com/nextgovbr/process-authorization",
+  "repository": "https://github.com/nextgovbr/process-auth",
   "keywords": [
     "auth0",
     "extension"
