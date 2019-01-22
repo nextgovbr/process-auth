@@ -1,6 +1,6 @@
 {
   "name": "process-authz-extension",
-  "version": "2.6.0",
+  "version": "3.0.0",
   "description": "process Authorization Extension",
   "engines": {
     "node": ">=6.10"
